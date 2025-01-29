@@ -45,8 +45,8 @@ To run this app locally, follow these steps:
 #### 1. Clone the Repository
 
 ```bash
-git clone <REPOSITORY_LINK>
-cd <REPOSITORY_FOLDER>
+git clone https://github.com/CodeByKalvin/ChkSum.git
+cd ChkSum
 ```
 
 #### 2. Install Dependencies
