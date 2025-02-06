@@ -5,7 +5,6 @@ import sqlite3
 import base64
 from tqdm import tqdm
 
-# Project metadata
 TITLE = """
 ***************************
 *      ChkSum             *
